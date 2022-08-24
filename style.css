@@ -62,7 +62,7 @@ section{
     text-align: center;
     font-weight:400;
     font: size 18px;
-    top:144%;
+    top:140%;
     left:25%;
     right:25%;
 }
@@ -246,38 +246,6 @@ section{
     position:absolute;
     top: 605%;
 }
-
-/*.last{
-    position:absolute;
-    top:640%;
-    width:22%;
-    height: 35px;
-    left:32%;
-    padding-top:10px;
-    padding-left:10px;
-    border-radius: 5px;
-    background-color:rgb(226, 226, 226);
-    font-size: 18px;
-    font-weight:600;
-    margin: 20px;
-    color:rgb(151, 151, 151);
-}
-
-.sub{
-    position:absolute;
-    top:640%;
-    left:55.5%;
-    height:35px;
-    width:8%;
-    padding-left:1.56%;
-    padding-top: 10px;
-    color:white;
-    border-radius: 5px;
-    background-color:#ff0000;
-    font-size: 18px;
-    font-weight:500;
-    margin: 20px;
-}*/
 
 .emailsub{
     background-image:linear-gradient(rgb(115, 141, 115),rgb(130, 149, 172));
